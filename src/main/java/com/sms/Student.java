@@ -8,7 +8,7 @@ public class Student {
     public Student(int id, String name, int age, String department) {
         this.id = id;
         this.name = name;
-        this.age = age+2;
+        this.age = age+45;
         this.department = department;
     }
 
