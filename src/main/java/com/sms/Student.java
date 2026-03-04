@@ -1,3 +1,4 @@
+package src.main.java.com.sms;
 public class Student {
     private int id;
     private String name;

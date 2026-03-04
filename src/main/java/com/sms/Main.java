@@ -1,3 +1,4 @@
+package src.main.java.com.sms;
 import java.util.Scanner;
 
 public class Main {
